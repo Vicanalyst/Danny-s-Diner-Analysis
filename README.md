@@ -1,0 +1,1 @@
+Danny's Diner is a Japanese food restaurant that sells sushi, curry, and ramen. Danny needs help to analyze his basic customer data, including visiting patterns, spending habits, and favorite menu items, to personalize customer experiences and expand the loyalty program. Three key datasets - sales, menu, and members - are provided for the analysis.
